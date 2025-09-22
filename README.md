@@ -27,5 +27,6 @@ Telegram Desktop | https://github.com/telegramdesktop/tdesktop
 Telegram FOSS | https://github.com/Telegram-FOSS-Team/Telegram-FOSS
 Telegram Monet | https://github.com/mi-g-alex/Telegram-Monet
 Telegram X | https://github.com/TGX-Android/Telegram-X
+TurboTel | https://t.me/TurboTel
 Unigram | https://github.com/UnigramDev/Unigram
 vidogram | https://www.vidogram.org/
