@@ -8,6 +8,7 @@ AyuGramDesktop | https://github.com/AyuGram/AyuGramDesktop, https://t.me/AyuGram
 AyuGramX | https://github.com/AyuGram/AyuGramX
 Cherrygram | https://github.com/arsLan4k1390/Cherrygram, https://t.me/Cherry_gram
 ExteraGram | https://github.com/exteraSquad/exteraGram, https://t.me/exteraGram
+FagramDektop | https://github.com/burhancodes/fagramdesktop
 Forkgram | https://github.com/forkgram/TelegramAndroid, https://t.me/forkgram
 Graph Messenger | https://www.graphmessenger.com/
 iMe | https://www.imem.app/
