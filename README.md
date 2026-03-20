@@ -17,7 +17,7 @@ MoeGramX | https://t.me/moexci, https://t.me/moex_log
 Momogram | https://github.com/dic1911/Momogram, https://t.me/momogram_update
 Nagram | https://github.com/NextAlone/Nagram, https://t.me/nagram_channel
 NagramX | https://github.com/risin42/NagramX, https://t.me/NagramX_Fork
-Nekogram | https://github.com/Nekogram/Nekogram, https://t.me/NekoUpdates
+Nekogram | https://github.com/Nekogram/Nekogram, https://t.me/NekoUpdates, https://t.me/NekogramAPKs
 Nicegram | https://nicegram.app/
 Nnngram | https://t.me/Nnngram
 Nullgram | https://github.com/qwq233/Nullgram, https://t.me/NullgramClient
