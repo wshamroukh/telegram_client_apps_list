@@ -13,7 +13,7 @@ Forkgram | https://github.com/forkgram/TelegramAndroid, https://t.me/forkgram
 Graph Messenger | https://www.graphmessenger.com/
 iMe | https://www.imem.app/
 MoeGramX | https://t.me/moexci
-Momogram | https://github.com/dic1911/Momogram
+Momogram | https://github.com/dic1911/Momogram, https://t.me/momogram_update
 Nagram | https://github.com/NextAlone/Nagram, https://t.me/nagram_channel
 NagramX | https://github.com/risin42/NagramX, https://t.me/NagramX_Fork
 Nekogram | https://github.com/Nekogram/Nekogram, https://t.me/NekoUpdates
