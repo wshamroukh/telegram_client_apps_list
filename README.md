@@ -12,7 +12,7 @@ FagramDektop | https://github.com/burhancodes/fagramdesktop
 Forkgram | https://github.com/forkgram/TelegramAndroid, https://t.me/forkgram
 Graph Messenger | https://www.graphmessenger.com/
 iMe | https://www.imem.app/
-MoeGramX | https://t.me/moexci
+MoeGramX | https://t.me/moexci, https://t.me/moex_log
 Momogram | https://github.com/dic1911/Momogram, https://t.me/momogram_update
 Nagram | https://github.com/NextAlone/Nagram, https://t.me/nagram_channel
 NagramX | https://github.com/risin42/NagramX, https://t.me/NagramX_Fork
